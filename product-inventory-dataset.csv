@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Price,Quantity
+1,Laptop,Electronics,850,12
+2,Mouse,Accessories,15,50
+3,Keyboard,Accessories,25,35
+4,Monitor,Electronics,220,18
+5,Headphones,Accessories,45,30
+6,Smartphone,Electronics,650,20
+7,Tablet,Electronics,400,14
+8,Printer,Office,180,10
+9,Desk,Furniture,150,8
+10,Chair,Furniture,95,25
+11,USB_Cable,Accessories,8,100
+12,Webcam,Electronics,55,22
+13,Speaker,Electronics,75,16
+14,Notebook,Stationery,5,200
+15,Backpack,Accessories,40,28
